@@ -1,2 +1,4 @@
 # ProyectoFinalCiberseguridad_4GeeksAcademy
-Repor piloto para el proyecto final (falta rellenar y ponerlo wapo)
+Repo piloto para el proyecto final (falta rellenar y ponerlo wapo),.
+
+Tengo parte del trabajo hecho en local. En cuanto lo tenga todo bien pulido lo subiré.
