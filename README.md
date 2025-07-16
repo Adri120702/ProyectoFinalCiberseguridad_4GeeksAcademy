@@ -1,4 +1,2 @@
 # ProyectoFinalCiberseguridad_4GeeksAcademy
-Repo piloto para el proyecto final (falta rellenar y ponerlo wapo),.
-
-Tengo parte del trabajo hecho en local. En cuanto lo tenga todo bien pulido lo subiré.
+Este repositorio guarda el informe con toda la información expuesta y usada, a la hora de realizar este último trabajo final de ciberseeguridad para la academia de 4Geeks Academy.
